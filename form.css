@@ -1,0 +1,69 @@
+input.text, input.search, input.file, textarea.textarea, select.select {
+    padding: 15px 0;
+}
+
+input.text, input.search, textarea.textarea {
+    border-top: 3px solid #FFABD3;
+    border-left: 3px solid #FFABD3;
+    border-right: 3px solid #FFABD3;
+    border-bottom: 3px solid #FFABD3;
+    background: #fff;
+    border-radius: 25px;
+}
+
+.wufoo label.desc, .wufoo legend.desc, .likert caption {
+    margin-left: 1%;
+    font-size: 0.8rem !important;
+    font-weight: 400;
+}
+
+.wufoo .info div {
+    text-align: center;
+    font-size: 1rem !important;
+    padding: 10px;
+}
+
+.wufoo .info h2 {
+    font-size: 2rem !important;
+    text-align: center;
+    font-family: playfair display;
+}
+
+input.btTxt {
+    padding: 20px 50px;
+}
+
+input.btTxt {
+    font-size: 1rem;
+    -moz-font-size: 1rem;
+    font-weight: 700;
+    -moz-font-weight: 700;
+    background-color: #FFABD3;
+    -moz-background-color: #FFABD3;
+    border-radius: 25px;
+    -moz-border-radius: 25px;
+    color: #fff;
+    -moz-color: #fff;
+    border: #ffabd3;
+    -moz-border: #ffabd3;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span {
+    border: 3px solid #FFABD3;
+    border-radius: 25px;
+}
+.wufoo li div,
+form li.buttons input{
+    margin: 0 auto;
+}
+
+.wufoo select.select {
+    background: #ffffff url(/images/fieldbg.gif) repeat-x top;
+    border: 1px solid Background color 'ffffff url(/images/fieldbg.gif) repeat-x top';
+    border-bottom: 1px solid Background color 'ffffff url(/images/fieldbg.gif) repeat-x top';
+    border-right: 1px solid Background color 'ffffff url(/images/fieldbg.gif) repeat-x top';
+    font-size: 100% !important;
+}
